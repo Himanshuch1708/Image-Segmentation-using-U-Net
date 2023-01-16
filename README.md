@@ -1,0 +1,2 @@
+# Image Segmentation using U-Net
+ Image Segmentation using U-Net is a project that focuses on dividing an image into multiple segments or regions using the U-Net architecture. U-Net is a deep learning-based model that is designed for image segmentation tasks. This project aims to improve the accuracy of image segmentation, it could be applied in various fields such as medical imaging, object detection, and more.
